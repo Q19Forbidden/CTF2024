@@ -10,3 +10,5 @@ Kịch bản:
 3. Mail Server: Nằm trong mail CEO gửi admin1
 4. CEO: /user/CEO/flag.txt; /root/flag.txt
 5. Admin: /user/admin/flag.txt; /root/flag.txt
+
+<a href="https://app.diagrams.net/#G1oqmBeUiAug7nWYiivw-fdy95zDNmDoyY#%7B%22pageId%22%3A%22e3a06f82-3646-2815-327d-82caf3d4e204%22%7D"><strong>click here to view!</strong></a>
